@@ -16,4 +16,4 @@ Pronto! O OAuth App foi criado.
 Salve Client ID e Client Secret para usar na configuração do Grafana.
 
 ### <a href="\5° Passo - Executando o arquivo .sh e acessando o Grafana.md" target="_blank">Passo anterior</a>
-### <a href="\7° Passo: .md" target="_blank">Próximo passo</a>
+### <a href="\7° Passo - Configurando o Grafana.md" target="_blank">Próximo passo</a>

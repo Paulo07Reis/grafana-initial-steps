@@ -14,4 +14,4 @@ Pronto agora o Grafana já está instalado e sendo executado na EC2 com acesso l
 - Importante: No primeiro acesso admin/adimin são o user e login respectivamente.
 
 ### <a href="\4° Passo - Criando o arquivo .sh.md" target="_blank">Passo anterior</a>
-### <a href="\6° Passo: Criando GitHub OAuth app.md" target="_blank">Próximo passo</a>
+### <a href="\6° Passo - Criando GitHub OAuth app.md" target="_blank">Próximo passo</a>

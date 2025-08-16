@@ -17,4 +17,4 @@ Torne o arquivo executável com o comando:
 <br><img src="..\readme-assets\Criando arq sh pt5.png">
 
 ### <a href="\3° Passo - Acessando a EC2 via Terminal.md" target="_blank">Passo anterior</a>
-### <a href="\4° Passo - Criando o arquivo .sh.md" target="_blank">Próximo passo</a>
+### <a href="\5° Passo - Executando o arquivo .sh e acessando o Grafana.md" target="_blank">Próximo passo</a>
