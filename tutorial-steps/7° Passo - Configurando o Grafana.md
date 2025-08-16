@@ -16,6 +16,6 @@ Ao clicar vamos para essa página:
 <br><img src="..\readme-assets\Github authorize.png">
 
 Clique em Autorizar e pronto! O login com autenticação via GitHub (dois fatores) está implementado.
-<br><img src="..\readme-assets\Grafana menu.png">
+<br><img src="..\readme-assets\Grafana Menu.png">
 
 ### <a href="\6° Passo - Criando GitHub OAuth app.md" target="_blank">Passo anterior</a>
