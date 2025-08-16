@@ -97,5 +97,19 @@ Torne o arquivo executável com o comando:
 <br><img src="\readme-assets\Criando arq sh pt5.png">
 
 
+<br><br>
+## Passo 4: Executando o arquivo .sh e acessando o Grafana
 
+Execute o comando "./grafana.sh"
+<br><img src="\readme-assets\Executando pt1.png">
+
+Final da execução do script:
+<br><img src="\readme-assets\Executando pt2.png">
+
+Copie o link de acesso e cole no seu navegador:
+<br><img src="\readme-assets\Grafana pt1.png">
+
+Pronto agora o Grafana já está instalado e sendo executado na EC2 com acesso liberado a Internet
+
+- Importante: No primeiro acesso admin/adimin são o user e login respectivamente.
 
